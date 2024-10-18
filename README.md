@@ -1,4 +1,4 @@
-![Yashu Pro](https://github.com/user-attachments/assets/b0edcd92-d301-4dc9-8974-c88dde88d79a)<h1 align="center">
+<h1 align="center">
   ✨ Welcome to My Digital Universe ✨
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
