@@ -7,14 +7,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+There+👋,+I'm+Yashaswini+K;Engineering+Student+@+Shriedvi+Institute;Front-End+Developer+✨;Code+Enthusiast+💻;Always+Learning+New+Things!">
 </p>
 
-<!-- Animated Snake Grid -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
+
 
 <h2 align="center">⚡️ About Me ⚡️</h2>
 <div align="center">
-  <img align="right" width="350" src="" alt="coding">
+<img src="https://media.licdn.com/dms/image/v2/D5603AQGvAUTTbIlieA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726733684762?e=1734566400&v=beta&t=eHlyLIx7QDrMksnx5nbyqLZO_PJqBfmd2Z_qv2AedMg" alt="coding" width="200" height="200" style="border-radius:50%;" />
+
+
   <ul align="left" style="list-style-type: none;">
     <li>🎓 B.E Student at Shriedvi Institute</li>
     <li>💫 Front-End Development Enthusiast</li>
@@ -45,19 +44,19 @@
 
 <h2 align="center">🌟 Let's Create Something Amazing Together 🌟</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+  <a href="(https://www.linkedin.com/in/yashaswini-k-695b8629b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:yashaswinik.pro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com/YourInstagram" target="_blank">
+  <a href="(https://www.instagram.com/pro_89_73/?__pwa=1)" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
 
 <!-- Contribution Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=YashaswiniK&bg_color=0d1117&color=ff91a4&line=ff91a4&point=403d3d&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-K&theme=dracula&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area=true&hide_border=true" width="100%">
 
 <!-- Profile Views Counter -->
 <div align="center">
