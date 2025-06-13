@@ -15,7 +15,7 @@
 
 
   <ul align="left" style="list-style-type: none;">
-    <li>🎓 B.E Student at Shriedvi Institute</li>
+    <li>🎓 MERN  stack developer</li>
     <li>💫 Front-End Development Enthusiast</li>
     <li>🌈 Turning Ideas into Interactive Reality</li>
     <li>✨ Passionate about Clean & Elegant Designs</li>
